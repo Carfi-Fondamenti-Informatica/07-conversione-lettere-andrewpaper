@@ -1,5 +1,5 @@
 #include <iostream>
-#include "legno.h"
+#include "lib.h"
 
 using namespace std;
 
