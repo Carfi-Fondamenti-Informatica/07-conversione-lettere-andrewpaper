@@ -1,4 +1,5 @@
-#include "legno.h"
+#include "lib.h"
+#include <iostream>
 bool verifica(char a){
     int b;
     b=(int)a;
