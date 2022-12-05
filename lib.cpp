@@ -1,5 +1,4 @@
 #include "legno.h"
-
 bool verifica(char a){
     int b;
     b=(int)a;
@@ -18,5 +17,4 @@ char conversione(char a){
         c=b-32;
     }
     return c;
-
 }
