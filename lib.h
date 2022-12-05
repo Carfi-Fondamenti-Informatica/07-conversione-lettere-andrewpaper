@@ -3,6 +3,5 @@
 
 bool verifica(char a);
 char conversione(char a);
-
 #endif //ESERCITAZIONE7_LEGNO_H
 
