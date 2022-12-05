@@ -10,7 +10,7 @@ int main(){
     if(verifica(a)==true){
         cout << conversione(a);
     }else{
-        cout << "errore.";
+        cout << "errore"<< endl; 
     }
   return 0;
 }
