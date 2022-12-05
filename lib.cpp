@@ -6,15 +6,16 @@ bool verifica(char a){
         return true;
     }else{
         return false;
-}
-char conversione(char a){
-    int b;
-    b=(int)a;
-    int c=0;
-    if(b>=65 && b<=90){
-        c=b+32;
-    }else if(b>=97 && b<=122){
-        c=b-32;
     }
-    return c;
 }
+    char conversione(char a){
+        int b;
+        b=(int)a;
+        int c=0;
+        if(b>=65 && b<=90){
+            c=b+32;
+        }else if(b>=97 && b<=122){
+            c=b-32;
+        }
+        return c;
+    }
