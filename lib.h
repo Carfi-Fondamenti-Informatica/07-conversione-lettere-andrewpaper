@@ -1,8 +1,6 @@
-#ifndef ESE7_LEGNO_H
-#define ESE7_LEGNO_H
-
+#ifndef _GITHUB_LIB_H
+#define _GITHUB_LIB_H
 bool verifica(char a);
 char conversione(char a);
-
-#endif //ESE7_LEGNO_H
+#endif //_GITHUB_LIB_H
 
